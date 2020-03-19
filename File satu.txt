@@ -1,0 +1,169 @@
+2020-03-16 10:59:20 AM com.android.browser [Thread:4610] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-16 10:59:20 AM com.android.browser [Thread:4610] processing a message, action=Registration 
+2020-03-16 10:59:21 AM com.android.browser [Thread:4610] ASSEMBLE_PUSH : assemble push register 
+2020-03-16 10:59:21 AM com.android.browser [Thread:4610] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-16 10:59:21 AM com.android.browser [Thread:4610] processing a message, action=Command 
+2020-03-16 10:59:24 AM com.android.browser [Thread:4610] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-16 10:59:24 AM com.android.browser [Thread:4610] processing a message, action=Subscription 
+2020-03-16 10:59:26 AM com.android.browser [Thread:4610] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-16 10:59:27 AM com.android.browser [Thread:4610] processing a message, action=Subscription 
+2020-03-16 10:59:27 AM com.android.browser [Thread:4610] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-16 10:59:27 AM com.android.browser [Thread:4610] processing a message, action=Subscription 
+2020-03-16 10:59:35 AM com.android.browser [Thread:4610] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-16 10:59:35 AM com.android.browser [Thread:4610] processing a message, action=Subscription 
+2020-03-16 10:59:35 AM com.android.browser [Thread:4610] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-16 10:59:35 AM com.android.browser [Thread:4610] processing a message, action=Command 
+2020-03-16 10:59:35 AM com.android.browser [Thread:4610] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-16 10:59:35 AM com.android.browser [Thread:4610] processing a message, action=Command 
+2020-03-16 10:59:35 AM com.android.browser [Thread:4610] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-16 10:59:35 AM com.android.browser [Thread:4610] processing a message, action=Subscription 
+2020-03-16 10:59:35 AM com.android.browser [Thread:4610] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-16 10:59:35 AM com.android.browser [Thread:4610] processing a message, action=Subscription 
+2020-03-16 10:59:35 AM com.android.browser [Thread:4610] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-16 10:59:35 AM com.android.browser [Thread:4610] processing a message, action=Subscription 
+2020-03-16 10:59:35 AM com.android.browser [Thread:4610] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-16 10:59:35 AM com.android.browser [Thread:4610] processing a message, action=Subscription 
+2020-03-16 11:00:00 AM com.android.browser [Thread:4610] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-16 11:00:00 AM com.android.browser [Thread:4610] processing a message, action=Subscription 
+2020-03-16 11:00:00 AM com.android.browser [Thread:4610] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-16 11:00:00 AM com.android.browser [Thread:4610] processing a message, action=Subscription 
+2020-03-16 11:00:00 AM com.android.browser [Thread:4610] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-16 11:00:00 AM com.android.browser [Thread:4610] processing a message, action=Notification 
+2020-03-16 11:04:18 AM com.android.browser [Thread:4610] receive an intent from server, action=com.xiaomi.mipush.ERROR 
+2020-03-16 11:04:19 AM com.android.browser receive a error message. code = 70000001, msg=  the push is not connected. 
+2020-03-16 11:10:57 AM com.android.browser [Thread:4601] ASSEMBLE_PUSH : assemble push register 
+2020-03-16 11:10:57 AM com.android.browser [Thread:4601] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-16 11:10:57 AM com.android.browser receiving an empty message, drop 
+2020-03-16 11:10:57 AM com.android.browser [Thread:4601] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-16 11:10:57 AM com.android.browser receiving an empty message, drop 
+2020-03-16 11:10:57 AM com.android.browser [Thread:4601] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-16 11:10:57 AM com.android.browser receiving an empty message, drop 
+2020-03-16 11:10:57 AM com.android.browser [Thread:4601] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-16 11:10:57 AM com.android.browser receiving an empty message, drop 
+2020-03-16 11:10:57 AM com.android.browser [Thread:4601] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-16 11:10:57 AM com.android.browser receiving an empty message, drop 
+2020-03-16 11:10:57 AM com.android.browser [Thread:4601] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-16 11:10:57 AM com.android.browser receiving an empty message, drop 
+2020-03-16 11:10:57 AM com.android.browser [Thread:4601] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-16 11:10:57 AM com.android.browser receiving an empty message, drop 
+2020-03-16 11:10:57 AM com.android.browser [Thread:4601] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-16 11:10:57 AM com.android.browser receiving an empty message, drop 
+2020-03-16 11:10:57 AM com.android.browser [Thread:4601] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-16 11:10:57 AM com.android.browser receiving an empty message, drop 
+2020-03-16 11:10:57 AM com.android.browser [Thread:4601] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-16 11:10:57 AM com.android.browser receiving an empty message, drop 
+2020-03-16 11:10:57 AM com.android.browser [Thread:4601] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-16 11:10:57 AM com.android.browser receiving an empty message, drop 
+2020-03-16 11:10:57 AM com.android.browser [Thread:4601] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-16 11:10:57 AM com.android.browser receiving an empty message, drop 
+2020-03-16 11:10:57 AM com.android.browser [Thread:4601] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-16 11:10:57 AM com.android.browser receiving an empty message, drop 
+2020-03-16 11:20:30 AM com.android.browser [Thread:4658] ASSEMBLE_PUSH : assemble push register 
+2020-03-16 11:20:30 AM com.android.browser [Thread:4658] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-16 11:20:30 AM com.android.browser receiving an empty message, drop 
+2020-03-16 16:19:24 PM com.android.browser [Thread:310] ASSEMBLE_PUSH : assemble push register 
+2020-03-16 16:19:24 PM com.android.browser [Thread:310] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-16 16:19:24 PM com.android.browser receiving an empty message, drop 
+2020-03-16 20:59:32 PM com.android.browser [Thread:177] ASSEMBLE_PUSH : assemble push register 
+2020-03-16 20:59:32 PM com.android.browser [Thread:177] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-16 20:59:32 PM com.android.browser receiving an empty message, drop 
+2020-03-16 22:13:29 PM com.android.browser [Thread:225] ASSEMBLE_PUSH : assemble push register 
+2020-03-16 22:13:29 PM com.android.browser [Thread:225] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-16 22:13:29 PM com.android.browser receiving an empty message, drop 
+2020-03-16 23:22:48 PM com.android.browser [Thread:269] ASSEMBLE_PUSH : assemble push register 
+2020-03-16 23:22:48 PM com.android.browser [Thread:269] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-16 23:22:48 PM com.android.browser receiving an empty message, drop 
+2020-03-17 04:37:05 AM com.android.browser [Thread:497] ASSEMBLE_PUSH : assemble push register 
+2020-03-17 04:37:05 AM com.android.browser [Thread:497] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-17 04:37:05 AM com.android.browser receiving an empty message, drop 
+2020-03-17 07:25:35 AM com.android.browser [Thread:1012] ASSEMBLE_PUSH : assemble push register 
+2020-03-17 07:25:35 AM com.android.browser [Thread:1012] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-17 07:25:35 AM com.android.browser receiving an empty message, drop 
+2020-03-17 11:20:14 AM com.android.browser [Thread:1439] ASSEMBLE_PUSH : assemble push register 
+2020-03-17 11:20:14 AM com.android.browser [Thread:1439] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-17 11:20:14 AM com.android.browser receiving an empty message, drop 
+2020-03-17 11:20:15 AM com.android.browser [Thread:1439] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-17 11:20:15 AM com.android.browser [Thread:1439] processing a message, action=Subscription 
+2020-03-17 11:20:18 AM com.android.browser [Thread:1439] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-17 11:20:18 AM com.android.browser [Thread:1439] processing a message, action=Subscription 
+2020-03-17 11:20:18 AM com.android.browser [Thread:1439] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-17 11:20:18 AM com.android.browser [Thread:1439] processing a message, action=Subscription 
+2020-03-17 11:20:18 AM com.android.browser [Thread:1439] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-17 11:20:18 AM com.android.browser [Thread:1439] processing a message, action=Subscription 
+2020-03-17 11:20:18 AM com.android.browser [Thread:1439] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-17 11:20:18 AM com.android.browser [Thread:1439] processing a message, action=Subscription 
+2020-03-17 11:20:18 AM com.android.browser [Thread:1439] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-17 11:20:18 AM com.android.browser [Thread:1439] processing a message, action=Subscription 
+2020-03-17 11:20:20 AM com.android.browser [Thread:1439] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-17 11:20:20 AM com.android.browser [Thread:1439] processing a message, action=Subscription 
+2020-03-17 11:20:20 AM com.android.browser [Thread:1439] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-17 11:20:20 AM com.android.browser [Thread:1439] processing a message, action=Subscription 
+2020-03-17 11:20:20 AM com.android.browser [Thread:1439] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-17 11:20:20 AM com.android.browser [Thread:1439] processing a message, action=Subscription 
+2020-03-17 11:20:20 AM com.android.browser [Thread:1439] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-17 11:20:20 AM com.android.browser [Thread:1439] processing a message, action=Subscription 
+2020-03-17 11:20:20 AM com.android.browser [Thread:1439] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-17 11:20:20 AM com.android.browser [Thread:1439] processing a message, action=Command 
+2020-03-17 11:20:20 AM com.android.browser [Thread:1439] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-17 11:20:20 AM com.android.browser [Thread:1439] processing a message, action=Command 
+2020-03-17 23:43:35 PM com.android.browser [Thread:2439] ASSEMBLE_PUSH : assemble push register 
+2020-03-17 23:43:35 PM com.android.browser [Thread:2439] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-17 23:43:35 PM com.android.browser receiving an empty message, drop 
+2020-03-18 00:29:37 AM com.android.browser [Thread:2487] ASSEMBLE_PUSH : assemble push register 
+2020-03-18 00:29:37 AM com.android.browser [Thread:2487] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-18 00:29:37 AM com.android.browser receiving an empty message, drop 
+2020-03-18 03:24:58 AM com.android.browser [Thread:2739] ASSEMBLE_PUSH : assemble push register 
+2020-03-18 03:24:58 AM com.android.browser [Thread:2739] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-18 03:24:58 AM com.android.browser receiving an empty message, drop 
+2020-03-18 08:24:48 AM com.android.browser [Thread:2999] ASSEMBLE_PUSH : assemble push register 
+2020-03-18 08:24:48 AM com.android.browser [Thread:2999] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-18 08:24:48 AM com.android.browser receiving an empty message, drop 
+2020-03-18 11:38:04 AM com.android.browser [Thread:3318] ASSEMBLE_PUSH : assemble push register 
+2020-03-18 11:38:05 AM com.android.browser [Thread:3318] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-18 11:38:05 AM com.android.browser receiving an empty message, drop 
+2020-03-18 11:38:06 AM com.android.browser [Thread:3318] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-18 11:38:06 AM com.android.browser [Thread:3318] processing a message, action=Subscription 
+2020-03-18 11:38:06 AM com.android.browser [Thread:3318] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-18 11:38:06 AM com.android.browser [Thread:3318] processing a message, action=Subscription 
+2020-03-18 11:38:06 AM com.android.browser [Thread:3318] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-18 11:38:06 AM com.android.browser [Thread:3318] processing a message, action=Subscription 
+2020-03-18 11:38:07 AM com.android.browser [Thread:3318] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-18 11:38:07 AM com.android.browser [Thread:3318] processing a message, action=Subscription 
+2020-03-18 11:38:07 AM com.android.browser [Thread:3318] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-18 11:38:07 AM com.android.browser [Thread:3318] processing a message, action=Subscription 
+2020-03-18 11:38:07 AM com.android.browser [Thread:3318] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-18 11:38:07 AM com.android.browser [Thread:3318] processing a message, action=Subscription 
+2020-03-18 11:38:07 AM com.android.browser [Thread:3318] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-18 11:38:07 AM com.android.browser [Thread:3318] processing a message, action=Subscription 
+2020-03-18 11:38:07 AM com.android.browser [Thread:3318] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-18 11:38:07 AM com.android.browser [Thread:3318] processing a message, action=Subscription 
+2020-03-18 11:38:08 AM com.android.browser [Thread:3318] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-18 11:38:08 AM com.android.browser [Thread:3318] processing a message, action=Subscription 
+2020-03-18 11:38:08 AM com.android.browser [Thread:3318] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-18 11:38:08 AM com.android.browser [Thread:3318] processing a message, action=Subscription 
+2020-03-18 11:38:08 AM com.android.browser [Thread:3318] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-18 11:38:08 AM com.android.browser [Thread:3318] processing a message, action=Command 
+2020-03-18 11:38:08 AM com.android.browser [Thread:3318] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-18 11:38:08 AM com.android.browser [Thread:3318] processing a message, action=Command 
+2020-03-18 12:16:02 PM com.android.browser [Thread:3487] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-18 12:16:02 PM com.android.browser receiving an empty message, drop 
+2020-03-18 18:50:24 PM com.android.browser [Thread:3774] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-18 18:50:24 PM com.android.browser receiving an empty message, drop 
+2020-03-18 20:23:32 PM com.android.browser [Thread:3767] ASSEMBLE_PUSH : assemble push register 
+2020-03-18 20:23:32 PM com.android.browser [Thread:3767] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-18 20:23:32 PM com.android.browser receiving an empty message, drop 
+2020-03-18 22:49:45 PM com.android.browser [Thread:3982] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-18 22:49:45 PM com.android.browser receiving an empty message, drop 
+2020-03-18 23:31:25 PM com.android.browser [Thread:3973] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-18 23:31:25 PM com.android.browser receiving an empty message, drop 
+2020-03-19 02:43:19 AM com.android.browser [Thread:4176] ASSEMBLE_PUSH : assemble push register 
+2020-03-19 02:43:19 AM com.android.browser [Thread:4176] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-19 02:43:19 AM com.android.browser receiving an empty message, drop 
+2020-03-19 03:29:53 AM com.android.browser [Thread:4224] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-19 03:29:53 AM com.android.browser receiving an empty message, drop 
+2020-03-19 07:07:41 AM com.android.browser [Thread:4315] ASSEMBLE_PUSH : assemble push register 
+2020-03-19 07:07:41 AM com.android.browser [Thread:4315] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-19 07:07:41 AM com.android.browser receiving an empty message, drop 
+2020-03-19 07:21:08 AM com.android.browser [Thread:4339] ASSEMBLE_PUSH : assemble push register 
+2020-03-19 07:21:08 AM com.android.browser [Thread:4339] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2020-03-19 07:21:08 AM com.android.browser receiving an empty message, drop 
